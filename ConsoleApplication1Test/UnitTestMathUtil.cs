@@ -20,7 +20,7 @@ namespace ConsoleApplication1Test
         {
             MathUtil util = new MathUtil();
             Assert.IsTrue(util.IsOdd(11));
-            Assert.IsTrue(util.IsOdd(12));
+            Assert.IsTrue(util.IsOdd(13));
         }
     }
 }
