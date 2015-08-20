@@ -13,6 +13,7 @@ namespace ConsoleApplication1Test
             Assert.IsTrue(util.IsEven(10));
             Assert.IsTrue(util.IsEven(12));
             Assert.IsTrue(util.IsEven(14));
+            Assert.IsTrue(util.IsEven(15));
         }
     }
 }
