@@ -14,7 +14,9 @@ namespace ConsoleApplication1
         }
 
         public bool IsOdd(int number) {
-            return false;
+            return number % 2 == 1;
+
+            //return false;
         }
     }
 }
