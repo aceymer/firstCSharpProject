@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
     public class MathUtil
     {
-        internal bool IsEven(int number)
+        public bool IsEven(int number)
         {
             return number%2 == 0;
         }
