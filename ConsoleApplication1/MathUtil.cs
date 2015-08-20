@@ -13,7 +13,7 @@ namespace ConsoleApplication1
             return number%2 == 0;
         }
 
-        internal bool IsOdd(int number) {
+        public bool IsOdd(int number) {
             return false;
         }
     }
