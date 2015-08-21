@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApplication1
 {
     public class MathUtil
-    {
+    {   
         public bool IsEven(int number)
         {
             return number%2 == 0;
